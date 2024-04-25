@@ -3,3 +3,4 @@ lightgbm
 pycaret
 tensorflow
 plotly
+unidecode
